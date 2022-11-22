@@ -1,4 +1,4 @@
-name: 'CapRover App Deploy'
+name: 'CapRover App Deploy using App Tokens'
 description: 'Deploy application to CapRover server'
 branding:
   icon: 'caprover.svg'
